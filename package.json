@@ -1,0 +1,16 @@
+{
+    "name": "@singularitydao/v1-dynaset-contracts",
+    "version": "1.0.3-beta",
+    "description": "contribution buffer contract for dynasets",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/singularity-dao/DynasetForge.git"
+    },
+    "author": "SingularityDAO",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/singularity-dao/DynasetForge/issues"
+    },
+    "homepage": "https://github.com/singularity-dao/DynasetForge#readme",
+    "dependencies": {}
+}
