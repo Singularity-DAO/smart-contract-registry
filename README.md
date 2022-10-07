@@ -1,2 +1,2 @@
-# singularitdao-dynaset-forge-contracts
+# singularitydao-dynaset-forge-contracts
 SingularityDAO Dynaset Forge Contracts
