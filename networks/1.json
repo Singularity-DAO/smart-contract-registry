@@ -237,9 +237,9 @@
 			}
         },
 		"dynDYDX":{
-            "dynaset":"0xACAA841f5a456bA5FF49835a30ea7284D8A1408E",
-            "oracle":"0x3B62226a70f4217deb3f688F08B543131155De27",
-            "forge":"0xcBDf485bD096a536DaF5a6B9d57DBe68004Df1A5",
+            "dynaset":"0x28cba71583E5F7149E59d59EE9294E204Fa24741",
+            "oracle":"0x31d3335a925C9B1355f255BC87aB151650F6808F",
+            "forge":"0x43F2C02532cDCDFEeE862949F0F2C43398E9961e",
             "forges":{
                "USDC":{
                   "index":0,
