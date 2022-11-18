@@ -1,6 +1,6 @@
 {
     "name": "v1-dynaset-contracts",
-    "version": "1.0.1-beta",
+    "version": "1.0.4-beta",
     "description": "contribution buffer contract for dynasets",
     "repository": {
         "type": "git",
