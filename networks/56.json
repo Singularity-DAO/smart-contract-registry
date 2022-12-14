@@ -12,7 +12,7 @@
             "dynasetDydxFactory": null
         },
         "dynasets": {
-            "test_dynL1BNB": {
+            "dynL1BNB": {
                 "dynaset": "0x20af792908A5AEc539d3722824F23E4D8C34A6b0",
                 "oracle": "0x5C18e6711e1ec03B2E13Ad5Fdc645d2E8c10F424",
                 "forge": "0x3A0D9296069308BF721cE6b7d3e1067904aF2D01",
