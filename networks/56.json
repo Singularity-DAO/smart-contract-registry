@@ -2,20 +2,20 @@
     "environment": "DEV",
     "contracts": {
         "oracles": {
-            "feedregistry": "0xf4fcF62a45006613E59C2Be16F04c51532781b31",
-            "chainlinkOracle": "0xd7C6C7A61B70bc2824974F945F1E3f81D6068927",
-            "uniswapv2Oracle": "0x0e308A08672A790a8b855F6Ceb0611FB05eCA9f5",
-            "usdcOracle": "0x100B30636b99BBd1F3950b5292d3E19339a13583"
+            "feedregistry": "0x5eBCD77b896BBa40bc3696Eb3393251Ad837022E",
+            "chainlinkOracle": "0x0330DcB09baCE24e46f3b8F537246eE5C1F1E5Cf",
+            "uniswapv2Oracle": "0x7cb3402b441332314ee99B9b5B7846Aa40Fd02bb",
+            "usdcOracle": "0x4e070D30f10d54a582461Eca2B8BacF22A98bA09"
         },
         "factories": {
-            "dynasetFactory": "0x70Dda66A90442c852B1b0108eAe7eD3151C8A501",
+            "dynasetFactory": "0x65Fb430f2a5f21FAc65A2a79c7eC98Bfe4925cbd",
             "dynasetDydxFactory": null
         },
         "dynasets": {
-            "dynL1BNB": {
-                "dynaset": "0x918932e2c63961d76b0Ddb32B542A683ea17D008",
-                "oracle": "0xC742fdC819423645cb6823a4957b8E1E2D2E2c5F",
-                "forge": "0xfeFeE273d2e0BeB1aD03f66e8E930e10228Df561",
+            "test_dynL1BNB": {
+                "dynaset": "0x20af792908A5AEc539d3722824F23E4D8C34A6b0",
+                "oracle": "0x5C18e6711e1ec03B2E13Ad5Fdc645d2E8c10F424",
+                "forge": "0x3A0D9296069308BF721cE6b7d3e1067904aF2D01",
                 "forges": {
                     "BUSD": {
                         "index": 0,
@@ -27,14 +27,14 @@
                     "BNB": {
                         "index": 1,
                         "contributionToken": "0x0000000000000000000000000000000000000000",
-                        "minContribution": "34426177650745695",
+                        "minContribution": "36986142277160158",
                         "maxContribution": "115792089237316195423570985008687907853269984665640564039457584007913129639935",
                         "maxCapital": "115792089237316195423570985008687907853269984665640564039457584007913129639935"
                     },
                     "WBNB": {
                         "index": 2,
                         "contributionToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                        "minContribution": "34476011393397304",
+                        "minContribution": "36986142277160158",
                         "maxContribution": "115792089237316195423570985008687907853269984665640564039457584007913129639935",
                         "maxCapital": "115792089237316195423570985008687907853269984665640564039457584007913129639935"
                     }
