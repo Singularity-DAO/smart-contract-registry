@@ -236,6 +236,34 @@
                }
 			}
         },
+        "dynETHc":{
+            "dynaset":"0xbBbfa5d0Bfd30B9ebce64b06E3E9Fc85E7f0F396",
+            "oracle":"0x8F230dE6D87ABF5aA4486450bd8Da53dB5Fcf532",
+            "forge":"0xd32050abDeBCC751D7889BC928BE807812337e8d",
+            "forges":{
+               "ETH":{
+                  "index":0,
+                  "contributionToken":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                  "minContribution":"397197440003713955",
+                  "maxContribution":"39719744000371395494",
+                  "maxCapital":"115792089237316195423570985008687907853269984665640564039457584007913129639935"
+               },
+               "WETH":{
+                  "index":1,
+                  "contributionToken":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                  "minContribution":"397197440003713955",
+                  "maxContribution":"39719744000371395494",
+                  "maxCapital":"115792089237316195423570985008687907853269984665640564039457584007913129639935"
+               },
+               "USDC":{
+                  "index":2,
+                  "contributionToken":"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                  "minContribution":"500000000",
+                  "maxContribution":"500000000000",
+                  "maxCapital":"115792089237316195423570985008687907853269984665640564039457584007913129639935"
+               }
+			}
+        },
         "dynDYDX":{
             "dynaset":"0x976a95786DA6f6eE1c0755cCFB9A22adac2BF7B2",
             "oracle":"0x189E59BdE619d56760c742128246aF0E2DCb052e",
