@@ -1,6 +1,6 @@
 {
     "name": "@singularitydao/v1-dynaset-contracts",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "description": "contribution buffer contract for dynasets",
     "repository": {
         "type": "git",
