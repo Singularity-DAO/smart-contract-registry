@@ -8,7 +8,7 @@
          "usdcOracle":"0x62a7953D722e85Bf1eB08dB6a66AE3545A7E4A97"
       },
       "factories":{
-         "dynasetFactory":"0x3eE2ba2950d903E235E258E97AADb6E435DB166e",
+         "dynasetFactory":"0x3eE2ba2950d903E235E258E97AADb6E435DB166e"
       },
       "dynasets":{
          "dynL1BNB":{
